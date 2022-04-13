@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>I am New to DevOps Learning</h1>
+    <h1>Registration form For DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
